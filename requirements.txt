@@ -4,4 +4,6 @@ numpy
 tensorflow
 streamlit
 nltk
+scikit-learn
+scikeras
 -e .
